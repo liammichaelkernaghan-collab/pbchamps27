@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NZ Pipe Band Championships 2027 · Live</title>
+<meta name="description" content="Live streams, circle status, draws, judges, tunes and results from the 2027 New Zealand Pipe Band Championships in Tauranga.">
+<meta name="theme-color" content="#0b1020">
+<meta property="og:title" content="NZ Pipe Band Championships 2027 · Live">
+<meta property="og:description" content="Who's on now, who's next, the draws, and pick your winners.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#/live">
+    <span class="live-dot" aria-hidden="true"></span>
+    <span><b>NZ PIPE BAND</b> CHAMPS <em>2027</em></span>
+  </a>
+  <nav class="tabs" id="tabs">
+    <a href="#/live" data-route="live">Live</a>
+    <a href="#/draws" data-route="draws">Draws</a>
+    <a href="#/bands" data-route="bands">Bands</a>
+    <a href="#/results" data-route="results">Results</a>
+    <a href="#/pick" data-route="pick">Pick 'em</a>
+    <a href="#/mine" data-route="mine">★ Mine</a>
+  </nav>
+  <div class="updated" id="updated" title="Last data refresh"></div>
+</header>
+
+<div class="ticker" id="ticker" aria-live="polite"><div class="ticker-track" id="ticker-track"></div></div>
+
+<main id="app" tabindex="-1"><div class="loading">Loading…</div></main>
+
+<footer class="foot">
+  <span>Tauranga · 2027 · Unofficial live companion. Official results are those announced by the RNZPBA.</span>
+</footer>
+
+<div class="toast" id="toast" role="status"></div>
+<script src="app.js" defer></script>
+</body>
+</html>

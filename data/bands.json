@@ -1,0 +1,568 @@
+{
+ "updated": "2026-11-06T20:34",
+ "bands": [
+  {
+   "id": "ashburton-pipe-band",
+   "name": "Ashburton Pipe Band",
+   "short": "Ashburton Pipe Band",
+   "grade": "4B",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "auckland-police",
+   "name": "Auckland Police",
+   "short": "Auckland Police",
+   "grade": "3",
+   "centre": "1",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-3-medley",
+    "grade-3-msr",
+    "grade-3-street-march"
+   ]
+  },
+  {
+   "id": "bay-of-plenty-pipes-and-drums",
+   "name": "Bay of Plenty Pipes and Drums",
+   "short": "Bay of Plenty Pipes and Drums",
+   "grade": "4B",
+   "centre": "2",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "brisbane-boys-college-pipe-band",
+   "name": "Brisbane Boys' College Pipe Band",
+   "short": "Brisbane Boys' College Pipe Band",
+   "grade": "3",
+   "centre": "Australia",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-3-medley",
+    "grade-3-msr",
+    "grade-3-street-march",
+    "juvenile-march-set"
+   ]
+  },
+  {
+   "id": "canterbury-caledonian-juvenile",
+   "name": "Canterbury Caledonian Juvenile",
+   "short": "Canterbury Caledonian Juvenile",
+   "grade": "Juvenile",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "juvenile-march-set"
+   ]
+  },
+  {
+   "id": "canterbury-caledonian-society-pipe-band",
+   "name": "Canterbury Caledonian Society Pipe Band",
+   "short": "Canterbury Caledonian Society Pipe Band",
+   "grade": "1",
+   "centre": "5",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-1-medley",
+    "grade-1-msr",
+    "grade-1-street-march"
+   ]
+  },
+  {
+   "id": "canterbury-caledonian-society-s-pipe-band-grade-3",
+   "name": "Canterbury Caledonian Society's Pipe Band - Grade 3",
+   "short": "Canterbury Caledonian Society's Pipe Band - Grade 3",
+   "grade": "3",
+   "centre": "5",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-3-medley",
+    "grade-3-msr",
+    "grade-3-street-march",
+    "drum-majors-championship",
+    "mace-flourishing"
+   ]
+  },
+  {
+   "id": "canterbury-caledonian-society-s-pipe-band-grade-4",
+   "name": "Canterbury Caledonian Society's Pipe Band - Grade 4",
+   "short": "Canterbury Caledonian Society's Pipe Band - Grade 4",
+   "grade": "4A",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4a-medley",
+    "grade-4a-msr",
+    "grade-4a-street-march",
+    "drum-majors-championship"
+   ]
+  },
+  {
+   "id": "city-of-dunedin-pipe-band",
+   "name": "City of Dunedin Pipe Band",
+   "short": "City of Dunedin Pipe Band",
+   "grade": "4B",
+   "centre": "Otago",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "city-of-rotorua-highland-pipe-band",
+   "name": "City of Rotorua Highland Pipe Band",
+   "short": "City of Rotorua Highland Pipe Band",
+   "grade": "3",
+   "centre": "CNI (Central North-Island)",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-3-medley",
+    "grade-3-msr",
+    "grade-3-street-march",
+    "drum-majors-championship",
+    "mace-flourishing"
+   ]
+  },
+  {
+   "id": "city-of-tauranga",
+   "name": "City of Tauranga",
+   "short": "City of Tauranga",
+   "grade": "2",
+   "centre": "Central North Island",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-2-medley",
+    "grade-2-msr",
+    "grade-2-street-march",
+    "drum-majors-championship"
+   ]
+  },
+  {
+   "id": "feilding-caledonian-pipe-band",
+   "name": "Feilding Caledonian Pipe Band",
+   "short": "Feilding Caledonian Pipe Band",
+   "grade": "4B",
+   "centre": "Wellington-Hawkes Bay",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "hamilton-caledonian-1",
+   "name": "Hamilton Caledonian #1",
+   "short": "Hamilton Caledonian #1",
+   "grade": "3",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-3-medley",
+    "grade-3-msr",
+    "grade-3-street-march"
+   ]
+  },
+  {
+   "id": "hamilton-caledonian-development-band",
+   "name": "Hamilton Caledonian Development Band",
+   "short": "Hamilton Caledonian Development Band",
+   "grade": "4B",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "hawke-s-bay-caledonian-pipe-band",
+   "name": "Hawke's Bay Caledonian Pipe Band",
+   "short": "Hawke's Bay Caledonian Pipe Band",
+   "grade": "3",
+   "centre": "4",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-3-medley",
+    "grade-3-msr",
+    "grade-3-street-march"
+   ]
+  },
+  {
+   "id": "hawthorn-pipe-band",
+   "name": "Hawthorn Pipe Band",
+   "short": "Hawthorn Pipe Band",
+   "grade": "1",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-1-medley",
+    "grade-1-msr",
+    "grade-1-street-march"
+   ]
+  },
+  {
+   "id": "ilt-city-of-invercargill-highland-pipe-band-4a",
+   "name": "ILT City of Invercargill Highland Pipe Band 4A",
+   "short": "ILT City of Invercargill Highland Pipe Band 4A",
+   "grade": "4A",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4a-medley",
+    "grade-4a-msr",
+    "grade-4a-street-march"
+   ]
+  },
+  {
+   "id": "ilt-city-of-invercargill-highland-pipe-band-4b",
+   "name": "ILT City of Invercargill Highland Pipe Band 4B",
+   "short": "ILT City of Invercargill Highland Pipe Band 4B",
+   "grade": "4B",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "ilt-city-of-invercargill-highland-pipe-band-g2",
+   "name": "ILT City of Invercargill Highland Pipe Band G2",
+   "short": "ILT City of Invercargill Highland Pipe Band G2",
+   "grade": "2",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-2-medley",
+    "grade-2-msr",
+    "grade-2-street-march"
+   ]
+  },
+  {
+   "id": "ilt-city-of-invercargill-highland-pipe-band-juveniles",
+   "name": "ILT City of Invercargill Highland Pipe Band Juveniles",
+   "short": "ILT City of Invercargill Highland Pipe Band Juveniles",
+   "grade": "Juvenile",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "juvenile-march-set"
+   ]
+  },
+  {
+   "id": "kapiti-coast-pipes-and-drums-inc",
+   "name": "Kapiti Coast Pipes and Drums (Inc)",
+   "short": "Kapiti Coast Pipes and Drums (Inc)",
+   "grade": "4B",
+   "centre": "Wellington-Hawke's Bay Centre",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "lewis-turrell-memorial-juvenile-pipe-band",
+   "name": "Lewis Turrell Memorial Juvenile Pipe Band",
+   "short": "Lewis Turrell Memorial Juvenile Pipe Band",
+   "grade": "Juvenile",
+   "centre": "CNI",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "juvenile-march-set"
+   ]
+  },
+  {
+   "id": "manawatu-scottish-4a",
+   "name": "Manawatu Scottish 4A",
+   "short": "Manawatu Scottish 4A",
+   "grade": "4A",
+   "centre": "Wellington Hawkes Bay Centre",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4a-medley",
+    "grade-4a-msr",
+    "grade-4a-street-march"
+   ]
+  },
+  {
+   "id": "manawatu-scottish-youth-band",
+   "name": "Manawatu Scottish Youth Band",
+   "short": "Manawatu Scottish Youth Band",
+   "grade": "Juvenile",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "juvenile-march-set"
+   ]
+  },
+  {
+   "id": "marlborough-pipe-band",
+   "name": "Marlborough Pipe Band",
+   "short": "Marlborough Pipe Band",
+   "grade": "4B",
+   "centre": "5",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "papakura-pipe-band-4a",
+   "name": "Papakura Pipe Band (4A)",
+   "short": "Papakura Pipe Band (4A)",
+   "grade": "4A",
+   "centre": "Auckland",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4a-medley",
+    "grade-4a-msr",
+    "grade-4a-street-march",
+    "juvenile-march-set",
+    "drum-majors-championship",
+    "mace-flourishing"
+   ]
+  },
+  {
+   "id": "papakura-pipe-band-4b",
+   "name": "Papakura Pipe Band (4B)",
+   "short": "Papakura Pipe Band (4B)",
+   "grade": "4B",
+   "centre": "Auckland",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march",
+    "drum-majors-championship"
+   ]
+  },
+  {
+   "id": "rsa-franklin-pipe-band",
+   "name": "RSA Franklin Pipe Band",
+   "short": "RSA Franklin Pipe Band",
+   "grade": "4B",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "south-canterbury-pipe-band",
+   "name": "South Canterbury Pipe Band",
+   "short": "South Canterbury Pipe Band",
+   "grade": "4B",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march",
+    "juvenile-march-set"
+   ]
+  },
+  {
+   "id": "springfield-and-districts-pipe-band",
+   "name": "Springfield and Districts Pipe Band",
+   "short": "Springfield and Districts Pipe Band",
+   "grade": "2",
+   "centre": "Springfield",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-2-medley",
+    "grade-2-msr",
+    "grade-2-street-march"
+   ]
+  },
+  {
+   "id": "st-andrew-s-college-a",
+   "name": "St Andrew's College A",
+   "short": "St Andrew's College A",
+   "grade": "2",
+   "centre": "Canterbury",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-2-medley",
+    "grade-2-msr",
+    "grade-2-street-march",
+    "juvenile-march-set"
+   ]
+  },
+  {
+   "id": "st-andrews-college-b",
+   "name": "St Andrews College B",
+   "short": "St Andrews College B",
+   "grade": "4A",
+   "centre": "Canterbury",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4a-medley",
+    "grade-4a-msr",
+    "grade-4a-street-march",
+    "juvenile-march-set"
+   ]
+  },
+  {
+   "id": "vale-of-kawerau-pipe-band",
+   "name": "Vale of Kawerau Pipe Band",
+   "short": "Vale of Kawerau Pipe Band",
+   "grade": "4B",
+   "centre": "Central North Island Centre",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march",
+    "juvenile-march-set",
+    "drum-majors-championship"
+   ]
+  },
+  {
+   "id": "wairarapa-fern-thistle-pipe-band",
+   "name": "Wairarapa Fern & Thistle Pipe Band",
+   "short": "Wairarapa Fern & Thistle Pipe Band",
+   "grade": "4B",
+   "centre": "",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "wellington-red-hackle-g4b",
+   "name": "Wellington Red Hackle (G4B)",
+   "short": "Wellington Red Hackle (G4B)",
+   "grade": "4B",
+   "centre": "Wellington-Hawke's Bay",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4b-march-set",
+    "grade-4b-medley",
+    "grade-4b-street-march"
+   ]
+  },
+  {
+   "id": "wellington-red-hackle-pipe-band-g4",
+   "name": "Wellington Red Hackle Pipe Band (G4)",
+   "short": "Wellington Red Hackle Pipe Band (G4)",
+   "grade": "4A",
+   "centre": "Wellington-Hawke's Bay",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-4a-medley",
+    "grade-4a-msr",
+    "grade-4a-street-march"
+   ]
+  },
+  {
+   "id": "wellington-red-hackle-pipe-band-g3",
+   "name": "Wellington Red Hackle Pipe Band G3",
+   "short": "Wellington Red Hackle Pipe Band G3",
+   "grade": "3",
+   "centre": "Wellington-Hawke's Bay",
+   "pipeMajor": "",
+   "drumSergeant": "",
+   "drumMajor": "",
+   "events": [
+    "grade-3-medley",
+    "grade-3-msr",
+    "grade-3-street-march",
+    "juvenile-march-set"
+   ]
+  }
+ ]
+}

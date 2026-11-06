@@ -1,0 +1,14 @@
+{
+ "title": "NZ Pipe Band Championships 2027",
+ "venue": "Tauranga",
+ "start": "2027-03-05T09:00:00+13:00",
+ "streams": [
+  { "label": "Circle One", "youtubeId": "REPLACE_WITH_VIDEO_ID_1" },
+  { "label": "Circle Two", "youtubeId": "REPLACE_WITH_VIDEO_ID_2" }
+ ],
+ "pickEmail": "predictions@example.org.nz",
+ "pickFormEndpoint": "",
+ "pickDeadlineNote": "Picks close when the first band in the event steps off.",
+ "siteUrl": "https://live.example.org.nz",
+ "refreshSeconds": 20
+}

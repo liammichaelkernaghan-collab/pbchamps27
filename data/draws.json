@@ -1,0 +1,2221 @@
+{
+ "updated": "2026-11-06T20:34",
+ "competitions": [
+  {
+   "id": "grade-1-msr",
+   "name": "Grade 1 MSR",
+   "grade": "Grade 1",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Canterbury Caledonian Society Pipe Band",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "Argyllshire Gathering",
+        "Atholl Cummers",
+        "The Smith of Chilliechassie"
+       ]
+      },
+      {
+       "label": "Set 2",
+       "tunes": [
+        "The Braes of Castle Grant",
+        "Blair Drummond",
+        "Ca’ the Ewes"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hawthorn Pipe Band",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "Lord Alexander Kennedy",
+        "The Islay Ball",
+        "John McKechnie's Big Reel"
+       ]
+      },
+      {
+       "label": "Set 2",
+       "tunes": [
+        "Duncan MacColl",
+        "Susan MacLeod",
+        "Thompson's Dirk"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-1-medley",
+   "name": "Grade 1 Medley",
+   "grade": "Grade 1",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Canterbury Caledonian Society Pipe Band",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Donella Beaton Hornpipe",
+        "Donella Beaton Jig",
+        "Clean Sweeping",
+        "Requiem",
+        "Catlodge",
+        "Lads of Kilmarnock",
+        "The Plagiarist",
+        "Puirt-a-beul",
+        "Hardies Return"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hawthorn Pipe Band",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Freedom Hornpipe",
+        "Catlodge",
+        "Thoughts O Burns",
+        "The Stonecutter's Phoenix",
+        "Freedom Come All Ye",
+        "Flogging Reel",
+        "Dougal's Debut",
+        "Freedom Reprise"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-1-street-march",
+   "name": "Grade 1 Street March",
+   "grade": "Grade 1",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Canterbury Caledonian Society Pipe Band",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Mr Jack and Raymond Bradford"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hawthorn Pipe Band",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Jim Ritchie's March",
+        "Jean Mauchline",
+        "PS John Barclay"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-2-msr",
+   "name": "Grade 2 MSR",
+   "grade": "Grade 2",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "City of Tauranga",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band G2",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "Inveran",
+        "Kirstie McCallman's Favorite",
+        "Archie Kenneth"
+       ]
+      },
+      {
+       "label": "Set 2",
+       "tunes": [
+        "John MacFadyen of Melfort",
+        "Susan Macleod",
+        "Fiona Macleod"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Springfield and Districts Pipe Band",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "df",
+        "fdvb",
+        "gbdf"
+       ]
+      },
+      {
+       "label": "Set 2",
+       "tunes": [
+        "fd",
+        "dvbd",
+        "vc dv"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "St Andrew's College A",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "John MacColl's March to Kilbowie Cottage",
+        "Maggie Cameron",
+        "The Smith of Chilliechassie"
+       ]
+      },
+      {
+       "label": "Set 2",
+       "tunes": [
+        "John MacDonald of Glencoe",
+        "Dora MacLeod",
+        "The Brown Haired Maid"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-2-medley",
+   "name": "Grade 2 Medley",
+   "grade": "Grade 2",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "City of Tauranga",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band G2",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Queenstown Cougar",
+        "Kathleen Mala",
+        "The Ale is Deer",
+        "Kildonan",
+        "Leaving Ireland",
+        "Brendan Murphy's",
+        "The Seagull"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Springfield and Districts Pipe Band",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "vbdfb egrerge erger gerg"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "St Andrew's College A",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "John MacDonald's Welcome to South Uist",
+        "Archie Beag",
+        "The Famous Baravan",
+        "Anthem for the Wind and Water",
+        "Susan MacLeod",
+        "Golden Brown"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-2-street-march",
+   "name": "Grade 2 Street March",
+   "grade": "Grade 2",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "City of Tauranga",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band G2",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Hard Drive",
+        "The Pivovar Express"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Springfield and Districts Pipe Band",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "dfgfedgefge"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "St Andrew's College A",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Onaping Falls Centennial Pipe Band",
+        "Ian McMaster"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-3-msr",
+   "name": "Grade 3 MSR",
+   "grade": "Grade 3",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Auckland Police",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "John MacDonald Of Glencoe",
+        "The Balmoral Dancers",
+        "Dolina Mackay"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Brisbane Boys' College Pipe Band",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "PM Willie Gray's Farewell to Glasgow Police",
+        "Jennifer Findlayson",
+        "Lt. Col. D.J.S Murray"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 3",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "The Inverness Gathering",
+        "Maggie Cameron",
+        "The Brown-Haired Maid"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "City of Rotorua Highland Pipe Band",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "Duncan MacColl",
+        "Jennifer Finlayson",
+        "The Brown Haired Maid"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hamilton Caledonian #1",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "PM Jim McWilliams",
+        "The Caledonian Society of London",
+        "Alick C. MacGregor"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hawke's Bay Caledonian Pipe Band",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "Pipe Major Jim (j) McWilliams",
+        "The Ewe with the Crookit Horn",
+        "The Brown Hired Maid"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle Pipe Band G3",
+     "order": 7,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "Edinburgh City Police Pipe Band",
+        "Jennifer Finlayson",
+        "Clach Larich"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-3-medley",
+   "name": "Grade 3 Medley",
+   "grade": "Grade 3",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Auckland Police",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Cutting Bracken",
+        "Ryan's Reason",
+        "Isle of Jura",
+        "MacCrimmon's Sweetheart",
+        "Molly Connell",
+        "Tarfside",
+        "Cutting Bracken (Reel)",
+        "Lord Lovat's Lament"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Brisbane Boys' College Pipe Band",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Banks of the Lossie",
+        "Splash of Tartan",
+        "Out of the Air",
+        "A Night in that Land",
+        "Aniston Castle",
+        "Alick C MacGregor",
+        "Smelling Fresh"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 3",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Siege of Dubrovnik",
+        "Kenny Gilles of Skye",
+        "Bronni’s Blue Brozzi",
+        "The Glasgow City Police Pipers",
+        "The Dark Island",
+        "The Rose Among the Heather",
+        "Caledonian Canal",
+        "Kelsey’s Wee Reel",
+        "The Dark Island Reprise"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "City of Rotorua Highland Pipe Band",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "At Long Last",
+        "The Doune of Invernochty",
+        "Kalabakan",
+        "Hoea Ra",
+        "Wouldn't the Minister Dance?",
+        "Rocking the Baby"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hamilton Caledonian #1",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "PM Angus MacDonald",
+        "Kilbrandon",
+        "Annie’s Carafe",
+        "Noble Maiden Fair",
+        "Spitfire",
+        "Knees up in Hanoi",
+        "400%"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hawke's Bay Caledonian Pipe Band",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Ian McMaster",
+        "Calliope House",
+        "Out of the Air",
+        "Tune for Rebekah",
+        "Annie Grant",
+        "McPhedran’s Strathspey",
+        "Mozart on the Rampage"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle Pipe Band G3",
+     "order": 7,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Paraphernalia",
+        "The L&B Sweep",
+        "The Soup Dragon",
+        "The Boys of the Lough",
+        "Mrs Dorothy Miller",
+        "Road to Errogie"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-3-street-march",
+   "name": "Grade 3 Street March",
+   "grade": "Grade 3",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Auckland Police",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Glasgow Week in Hamburg",
+        "The Wellington Police Pipers in Australia"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Brisbane Boys' College Pipe Band",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Killiecrankie",
+        "Flett from Flotta",
+        "Lord Lovat's Lament"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 3",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Dornoch Highland Gathering",
+        "Leaving Port Askaig",
+        "Bill Boyle"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "City of Rotorua Highland Pipe Band",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Pipe Major Angus MacDonald",
+        "Dr. Robert Runcie MC"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hamilton Caledonian #1",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Hamilton Caledonian Pipe Band Centenary",
+        "Heights of Dargai"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hawke's Bay Caledonian Pipe Band",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Duncan MacGillivray",
+        "Chief Steward",
+        "Angus McKinnon"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle Pipe Band G3",
+     "order": 7,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Chasing Shadows",
+        "The Clumsy Lover"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-4a-msr",
+   "name": "Grade 4A MSR",
+   "grade": "Grade 4A",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 4",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "The Rhodesian Regiment",
+        "Dorrator Bridge",
+        "Dorrator Bridge"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band 4A",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "Pipe Major Sandy Spence",
+        "Jennifer Finlayson",
+        "Kildonan"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Manawatu Scottish 4A",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "Invergordon's Welcome to Queen Elizabeth II",
+        "Doune of Invernochty",
+        "High Road to Linton"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Papakura Pipe Band (4A)",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "The Atholl & Breadalbane Gathering",
+        "Caledonian Canal",
+        "Colonel McLeod"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "St Andrews College B",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "John MacColl's March to Kilbowie Cottage",
+        "Mac an Irish",
+        "The Brown Haired Maid"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle Pipe Band (G4)",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "Set 1",
+       "tunes": [
+        "The Inverness Gathering",
+        "The Marquis of Huntly’s Highland Fling",
+        "The Brown Haired Maid"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-4a-medley",
+   "name": "Grade 4A Medley",
+   "grade": "Grade 4A",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 4",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Pay the Piper",
+        "Long Island Jig",
+        "The Water is Wide",
+        "Seonaidh’s Tune",
+        "Airlie’s Big Day",
+        "Wise Maiden"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band 4A",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Farewell to Nigg",
+        "An Cota Ruadh",
+        "Clueless",
+        "Madah Rua",
+        "May It Be",
+        "Skylarks Ascension"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Manawatu Scottish 4A",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "PM Angus MacDonald",
+        "I Have it Somewhere",
+        "Calliope House",
+        "An Eala Bhan",
+        "Captain Horn",
+        "Molly Connell",
+        "Mrs MacLeod of Raasay",
+        "Dancing Feet"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Papakura Pipe Band (4A)",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "1) Cha Till MacCruimen",
+        "2) Rory McLeod",
+        "3) The Jig of Slurs",
+        "4) Tricia's Song",
+        "5) Jimmy Blue"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "St Andrews College B",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Seumas an Tarbh",
+        "Kenny Gillies of Portnalong",
+        "Skye",
+        "Anthem for the Wind and Water",
+        "Susan MacLeod",
+        "Dancing Feet"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle Pipe Band (G4)",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Gardens of Skye",
+        "Dr Iain MacAonghais",
+        "Cork Hill",
+        "The Girl From Dungannon",
+        "Mac An Irish",
+        "The Wise Maid"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-4a-street-march",
+   "name": "Grade 4A Street March",
+   "grade": "Grade 4A",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 4",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "13th Fredrick Street",
+        "My Dream Valley on the Road to Glendaruel",
+        "Lewis Turrell's Unnamed Tune"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band 4A",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Gardens of Skye",
+        "The Meeting of the Waters",
+        "Leaving Liverpool"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Manawatu Scottish 4A",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Dawning of the Day",
+        "MacPhail of Bunessan"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Papakura Pipe Band (4A)",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "1) The Dornach Highland Gathering",
+        "2) Angus MacKinnon"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "St Andrews College B",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Balmoral",
+        "Knox Grammar",
+        "The Dawning of the Day"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle Pipe Band (G4)",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Angus Mackinnon",
+        "Dr Ross"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-4b-medley",
+   "name": "Grade 4B Medley",
+   "grade": "Grade 4B",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Ashburton Pipe Band",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Angus McKinnon",
+        "Oft in the Stilly Night",
+        "The Dark Island",
+        "The Rose Among the Heather",
+        "Lexi Macaskill"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Bay of Plenty Pipes and Drums",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Gardens of Skye",
+        "The Fittie Boatman",
+        "The Kesh Jig",
+        "The Irish Sea",
+        "Isle of Hoy",
+        "The Wind that Shakes the Barley",
+        "Barneys Balmoral"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "City of Dunedin Pipe Band",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Lewis A",
+        "Turrells Unnamed Tune",
+        "I Have it Somewhere",
+        "Calliope House",
+        "Drambuie",
+        "Smiths a Galant Fireman",
+        "The Devil in the Kitchen (Strathspey)",
+        "The Devil in the Kitchen (Reel)",
+        "The Blackberry Bush"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Feilding Caledonian Pipe Band",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Jimmy Findlater",
+        "The Keel Row Strathspey",
+        "Farewell to Kakapuaka",
+        "The Duck",
+        "Kalabakan"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hamilton Caledonian Development Band",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "My Dream Valley on the Road to Glendaruel",
+        "Rocking the Baby",
+        "Ae Fond Kiss",
+        "Mac An Irish",
+        "High Road to Linton"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band 4B",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Dream Valley of Glendaruel",
+        "The Fittie Boatman",
+        "Salute to Cap Caval",
+        "Sound of Sleat",
+        "Hamilton's Nutsack."
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Kapiti Coast Pipes and Drums (Inc)",
+     "order": 7,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Roy Hitchcock",
+        "Rocking the baby",
+        "Melody for Robyn",
+        "Clean Pease Strae",
+        "On the road to Passchandaele",
+        "Reprise -Clean Peas Strae"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Marlborough Pipe Band",
+     "order": 8,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Acid Piper",
+        "Dr Iain MacAngus's Jig",
+        "Beinn Ghuileann",
+        "Countless Isles & Endless Miles",
+        "The Maid of Islay",
+        "The Islay Reel"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Papakura Pipe Band (4B)",
+     "order": 9,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "1) Dawning of the Day",
+        "2) Pony Gallop",
+        "3) Tricia's Song",
+        "4) The Rose of Allendale"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "RSA Franklin Pipe Band",
+     "order": 10,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Bonnie Galloway",
+        "Murdo's Wedding",
+        "Rowan Tree",
+        "Row me home to Islay",
+        "We're Nae Awa Tae Bide Awa"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "South Canterbury Pipe Band",
+     "order": 11,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Borve Castle",
+        "Lark in the Morning",
+        "Aisling An Aireachd",
+        "Aspen  Bank",
+        "High Road to Linton",
+        "That'll do Donkey"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Vale of Kawerau Pipe Band",
+     "order": 12,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Siege of Dubrovnik",
+        "Pipe Major Lee's Contention",
+        "Paddies Leather Breeches",
+        "The Misty Mountains Cold",
+        "Campbelltown Kiltie Ball",
+        "Sleepy Maggie",
+        "Atholl Plaid"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wairarapa Fern & Thistle Pipe Band",
+     "order": 13,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Lochanside",
+        "Out of the Air",
+        "Paddy Be Easy",
+        "Come by the Hills",
+        "Inverness Rant",
+        "The Fairy Dance",
+        "Kalabakan"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle (G4B)",
+     "order": 14,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Heights of Dargai",
+        "The Keel Row",
+        "High Road to Linton",
+        "La Baum",
+        "Paddy’s Leather Breaches",
+        "Flee the Glen"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-4b-march-set",
+   "name": "Grade 4B March Set",
+   "grade": "Grade 4B",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Ashburton Pipe Band",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Battle of Waterloo",
+        "Mrs Flora Duncan"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Bay of Plenty Pipes and Drums",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Leaving Liverpool",
+        "Cath Cameron",
+        "Wings"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "City of Dunedin Pipe Band",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Bathgate Highland Gathering",
+        "Festival March"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Feilding Caledonian Pipe Band",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Farewell to Nigg",
+        "On The Road to Passchendale",
+        "Castle Dangerous"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band 4B",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Farewell to Carinish",
+        "Colin's Cattle",
+        "My Hometown"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Kapiti Coast Pipes and Drums (Inc)",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Glen and Raewyn's Wedding Dance",
+        "Jimmy Findlater"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Marlborough Pipe Band",
+     "order": 7,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "PM Donald Maclean of Lewis",
+        "Katie Mo's March"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Papakura Pipe Band (4B)",
+     "order": 8,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "1) Bonnie Galloway",
+        "2) Murdo's Wedding",
+        "3) The Rowan Tree"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "RSA Franklin Pipe Band",
+     "order": 9,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Balmoral",
+        "Castle Dangerous",
+        "When the Battles O'er"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "South Canterbury Pipe Band",
+     "order": 10,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Gardens of Skye",
+        "Lord Lovats Lament",
+        "Flett from Flotta"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Vale of Kawerau Pipe Band",
+     "order": 11,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Dundee Military Tattoo",
+        "Captain Norman Orr-Ewing"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wairarapa Fern & Thistle Pipe Band",
+     "order": 12,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Pipers Cave",
+        "High Road to Gairloch",
+        "Cutting Bracken"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle (G4B)",
+     "order": 13,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Duncan McInnes",
+        "Stone of Destiny",
+        "The Piper’s Cave"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "grade-4b-street-march",
+   "name": "Grade 4B Street March",
+   "grade": "Grade 4B",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Ashburton Pipe Band",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Shoals of Herring",
+        "The Dream Valley of Glendaruel",
+        "Cullen Bay"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Bay of Plenty Pipes and Drums",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Halligan Street",
+        "Linda's Lilt",
+        "Return from Glengarry"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "City of Dunedin Pipe Band",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Dawning of the Day",
+        "Glendale Meadows",
+        "Killercrankie"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Feilding Caledonian Pipe Band",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "John D. Burgess",
+        "Angus MacKinnon"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Hamilton Caledonian Development Band",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Barnyards of Delgaty",
+        "Corriechollies",
+        "43rd Welcome to the Northern Meeting",
+        "Teribus"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band 4B",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Music of Spey",
+        "Ye Jacobites by Name",
+        "A Man's a Man for a' That"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Kapiti Coast Pipes and Drums (Inc)",
+     "order": 7,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Dream Valley of Glendaruel",
+        "Shoals of Herring",
+        "Castle Dangerous"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Marlborough Pipe Band",
+     "order": 8,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Macgregor of Rora",
+        "Dream Valley of Glendaruel"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Papakura Pipe Band (4B)",
+     "order": 9,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "1) Bonnie Galloway",
+        "2) Murdo's Wedding",
+        "3) The Rowan Tree"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "RSA Franklin Pipe Band",
+     "order": 10,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "100 Years or More"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "South Canterbury Pipe Band",
+     "order": 11,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Scotland the Brave and Rowan Tree"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Vale of Kawerau Pipe Band",
+     "order": 12,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Jack's Welcome Home",
+        "Stone of Destiny"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wairarapa Fern & Thistle Pipe Band",
+     "order": 13,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Gardens of Skye",
+        "Dawning of the Day",
+        "Horsburgh Castle"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle (G4B)",
+     "order": 14,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Atholl Highlanders",
+        "The Piobaireachd of Donal Dubh"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "juvenile-march-set",
+   "name": "Juvenile March Set",
+   "grade": "Juvenile",
+   "type": "Band Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Brisbane Boys' College Pipe Band",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Wee Michael's March",
+        "Farewell to Nigg",
+        "The Black Isle"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Canterbury Caledonian Juvenile",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Gardens of Skye",
+        "Old Rustic Bridge",
+        "Flett from Flotta"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "ILT City of Invercargill Highland Pipe Band Juveniles",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Juvenile A",
+        "Jo Barnes",
+        "The Battle of the Braes",
+        "Balchraggan",
+        "Juvenile B",
+        "Music of Spey",
+        "Ye Jacobites by Name",
+        "A Man's a Man for a' That"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Lewis Turrell Memorial Juvenile Pipe Band",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Barnyards of Delgaty",
+        "Corriechollies 43rd welcome to the Northern meetings",
+        "Teribus"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Manawatu Scottish Youth Band",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "I see Mull",
+        "Shoals of Herring",
+        "Castle Dangerous"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Papakura Pipe Band (4A)",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "1) Bonnie Galloway",
+        "2) Murdo's Wedding",
+        "3) The Rowan Tree"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "South Canterbury Pipe Band",
+     "order": 7,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "The Heights Of Dargai",
+        "The Black Isle",
+        "The Bathgate Highland Gathering"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "St Andrew's College A",
+     "order": 8,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Onaping Falls Centennial Pipe Band",
+        "Ian McMaster"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "St Andrews College B",
+     "order": 9,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Balmoral",
+        "Knox Grammar",
+        "The Dawning of the Day"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Vale of Kawerau Pipe Band",
+     "order": 10,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Jack's Welcome Home",
+        "Stone of Destiny"
+       ]
+      }
+     ]
+    },
+    {
+     "band": "Wellington Red Hackle Pipe Band G3",
+     "order": 11,
+     "circle": "",
+     "time": "",
+     "sets": [
+      {
+       "label": "",
+       "tunes": [
+        "Scotland the Brave",
+        "Aros Park",
+        "The Gael"
+       ]
+      }
+     ]
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "drum-majors-championship",
+   "name": "Drum Majors Championship",
+   "grade": "Open",
+   "type": "Individual Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 3",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 4",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "City of Rotorua Highland Pipe Band",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "City of Tauranga",
+     "order": 4,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "Papakura Pipe Band (4A)",
+     "order": 5,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "Papakura Pipe Band (4B)",
+     "order": 6,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "Vale of Kawerau Pipe Band",
+     "order": 7,
+     "circle": "",
+     "time": "",
+     "sets": []
+    }
+   ],
+   "provisional": true
+  },
+  {
+   "id": "mace-flourishing",
+   "name": "Mace Flourishing",
+   "grade": "Open",
+   "type": "Individual Event",
+   "day": "",
+   "circle": "",
+   "start": "",
+   "judges": {
+    "piping": [],
+    "drumming": "",
+    "ensemble": ""
+   },
+   "draw": [
+    {
+     "band": "Canterbury Caledonian Society's Pipe Band - Grade 3",
+     "order": 1,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "City of Rotorua Highland Pipe Band",
+     "order": 2,
+     "circle": "",
+     "time": "",
+     "sets": []
+    },
+    {
+     "band": "Papakura Pipe Band (4A)",
+     "order": 3,
+     "circle": "",
+     "time": "",
+     "sets": []
+    }
+   ],
+   "provisional": true
+  }
+ ]
+}
