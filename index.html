@@ -4,38 +4,88 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>NZ Pipe Band Championships 2027 · Live</title>
-<meta name="description" content="Live streams, circle status, draws, judges, tunes and results from the 2027 New Zealand Pipe Band Championships in Tauranga.">
-<meta name="theme-color" content="#0b1020">
+<meta name="description" content="Live streams, circle status, draws, judges, tunes and announcements from the 2027 New Zealand Pipe Band Championships in Tauranga.">
+<meta name="theme-color" content="#f0efec">
 <meta property="og:title" content="NZ Pipe Band Championships 2027 · Live">
 <meta property="og:description" content="Who's on now, who's next, the draws, and pick your winners.">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
+<script>try{if(localStorage.getItem("nzpb-theme")==="dark")document.documentElement.dataset.theme="dark"}catch(e){}</script>
 </head>
 <body>
-<header class="top">
+
+<!-- =====================================================================
+     ANNOUNCEMENTS
+     Add a new <article> at the TOP of this list for each announcement,
+     then upload this file. Open pages pick it up within about 20 seconds.
+
+       data-time   when it was posted, "YYYY-MM-DD HH:MM" (NZ time).
+                   Anything with a future time stays hidden until then,
+                   so you can schedule announcements in advance.
+       data-type   one of: important | update | schedule | info
+                   (red, blue, green and grey labels)
+       data-title  the bold heading
+       data-circle optional: 1 or 2. Adds a Circle One or Circle Two tag
+       The text inside the <article> is the body. Plain text or simple
+       HTML is fine (<b>, <a href="...">, <br>).
+     ===================================================================== -->
+<section id="announcements" hidden>
+
+  <article data-time="2026-11-09 09:00" data-type="info" data-title="Welcome to the live site">
+    Draws are provisional until entries close. Follow your band with the ★ to get a heads-up when they're on.
+  </article>
+
+  <!-- Examples for the day (edit or delete):
+  <article data-time="2027-03-05 10:42" data-type="schedule" data-circle="1" data-title="Grade 4B Medley running 10 minutes late">
+    Circle One is running about 10 minutes behind the published times.
+  </article>
+  <article data-time="2027-03-05 12:15" data-type="important" data-title="Massed bands assembly">
+    All bands to the main arena by 4:15pm for massed bands.
+  </article>
+  -->
+
+</section>
+
+<div class="strip"><div class="wrap">
+  <span>NZ Pipe Band Championships · Tauranga 2027</span>
+  <span id="clock"></span>
+</div></div>
+
+<header class="top"><div class="wrap">
   <a class="brand" href="#/live">
-    <span class="live-dot" aria-hidden="true"></span>
-    <span><b>NZ PIPE BAND</b> CHAMPS <em>2027</em></span>
+    <img src="icon.svg" alt="" width="34" height="34">
+    <span>nzpipebands<span class="dot">.</span>live</span>
   </a>
   <nav class="tabs" id="tabs">
-    <a href="#/live" data-route="live">Live</a>
+    <a href="#/live" data-route="live">Circles</a>
     <a href="#/draws" data-route="draws">Draws</a>
     <a href="#/bands" data-route="bands">Bands</a>
-    <a href="#/results" data-route="results">Results</a>
+    <a href="#/feed" data-route="feed">Feed</a>
     <a href="#/pick" data-route="pick">Pick 'em</a>
-    <a href="#/mine" data-route="mine">★ Mine</a>
+    <a href="#/mine" data-route="mine">My Bands</a>
+    <a href="#/live" class="live-link"><i></i>Live</a>
   </nav>
-  <div class="updated" id="updated" title="Last data refresh"></div>
-</header>
+  <button class="theme" id="theme" aria-label="Toggle dark mode">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+  </button>
+</div></header>
 
-<div class="ticker" id="ticker" aria-live="polite"><div class="ticker-track" id="ticker-track"></div></div>
+<div class="layout wrap">
+  <main id="app" tabindex="-1"><div class="loading">Loading…</div></main>
+  <aside class="side" id="side">
+    <div class="side-h">Live feed</div>
+    <div id="side-feed"></div>
+  </aside>
+</div>
 
-<main id="app" tabindex="-1"><div class="loading">Loading…</div></main>
-
-<footer class="foot">
-  <span>Tauranga · 2027 · Unofficial live companion. Official results are those announced by the RNZPBA.</span>
-</footer>
+<footer class="foot"><div class="wrap">
+  <span>Unofficial live companion to the 2027 New Zealand Pipe Band Championships. Official information comes from the RNZPBA and the event announcers.</span>
+  <span id="updated"></span>
+</div></footer>
 
 <div class="toast" id="toast" role="status"></div>
 <script src="app.js" defer></script>

@@ -1,16 +1,8 @@
 {
  "updated": "2027-03-05T09:00",
- "headline": "Welcome to Tauranga! Competition starts 9:00am on Circle One.",
- "ticker": [
-  "Grade 4B Medley underway on Circle One",
-  "Massed bands at 4:30pm on the main arena",
-  "Food trucks open by the main stand"
- ],
+ "headline": "Tauranga Domain · Competition starts 9:00am",
  "circles": {
-  "1": { "event": "grade-4b-medley", "now": "Ashburton Pipe Band", "status": "playing", "next": ["Bay of Plenty Pipes and Drums", "City of Dunedin Pipe Band", "Feilding Caledonian Pipe Band"], "stream": 0 },
-  "2": { "event": "juvenile-march-set", "now": "", "status": "tuning", "next": ["Brisbane Boys' College Pipe Band", "Canterbury Caledonian Juvenile"], "stream": 1 }
- },
- "results": [
-  { "event": "grade-1-street-march", "placings": ["Canterbury Caledonian Society Pipe Band", "Hawthorn Pipe Band"], "drumming": "Hawthorn Pipe Band", "notes": "Example result - delete before going live" }
- ]
+  "1": { "event": "grade-4b-medley", "now": "Ashburton Pipe Band", "status": "playing", "next": ["Bay of Plenty Pipes and Drums", "City of Dunedin Pipe Band", "Feilding Caledonian Pipe Band"] },
+  "2": { "event": "juvenile-march-set", "now": "", "status": "tuning", "next": ["Brisbane Boys' College Pipe Band", "Canterbury Caledonian Juvenile", "ILT City of Invercargill Highland Pipe Band Juveniles"] }
+ }
 }
